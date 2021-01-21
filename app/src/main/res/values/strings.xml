@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetWorkLibrary</string>
+    <string name="check_network_status">Please check the network status</string>
+</resources>
